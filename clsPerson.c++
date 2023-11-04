@@ -65,7 +65,7 @@ class clsPerson{
             int gettPhone(){
                    return Phone;
             }
-            string getsetSubject(){
+            string getSubject(){
                     return "The Email Sended Sucessfuly To Email " + Email  + "\n";
             }
 };

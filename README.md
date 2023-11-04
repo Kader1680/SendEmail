@@ -16,3 +16,7 @@
     <li>Send Message</li>
     <li>Send Email</li>
 </ul>
+
+
+<h2>Screenshot Project</h2>
+<img src = "./Capture.PNG" />

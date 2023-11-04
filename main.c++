@@ -19,7 +19,7 @@ int main()
     cout<<"Phone : "<<Person.gettPhone()<<endl;
     cout<<"_____________________________________"<<endl;
     Person.setSubject();
-    Person.getsetSubject();
+    cout<<Person.getSubject();
 
     
     return 0;
